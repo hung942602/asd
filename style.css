@@ -1,0 +1,270 @@
+body {
+	font-family: Arial;
+  /* For Safari 5.1 to 6.0 */
+  	background: url(http://www.pptbackground.net/background/Spot-Light-Powerpoint-Background-for-Powerpoint-Templates.jpg);
+  /* Standard syntax */
+	margin: 0 auto;
+	color:#000066;
+}
+
+.hidden{
+	display:none;
+}
+#wrapper {
+	height: 1240px;
+	width: 1230px;
+	margin: 0 auto;
+}
+#wrapper #top-box {
+	float: right;
+}
+
+.form-label{
+	color:#000000; font-size:102%;
+}
+ul {
+	padding: 0px;
+	margin: 0px;
+}
+
+#items{
+	width:95%;
+	background:#F2F2F2;
+}
+
+li {
+	margin: 0px;
+	padding: 10px;
+	float:left;
+	list-style:none;
+}
+
+#tabs ul li a, .foot-link {
+	display: block;
+	height: 50px;
+	width: 270px;
+}
+
+.row{
+		height: 60px;
+		display:inline;
+		vertical-align: top;	
+		line-height: 40px;
+}
+
+.clear{clear:both}
+
+#log-in {
+	float: left;
+	width: 350px;
+	padding: 20px;
+	background:black;
+	height:575px;
+	border-radius: 20px 15px 0 15px;
+}
+
+.da-slide > h2{
+	font-size: 16px;
+	font-style: italic;
+	color: #593741;
+	text-shadow: 0px 1px 1px rgba(255,255,255,0.8);
+}
+
+#log-in h2{
+	padding: 0px 80px 10px 0;
+}
+
+#log-in h2, #log-in p{
+	margin:10px 0 0 0 ;
+	display: inline;
+    vertical-align: top;
+}
+
+#log-in p{
+	padding: 0px 10px 10px 0;
+}
+
+#log-in h2{
+	color: yellow;
+}
+
+#log-in p{
+	color:#3333FF;
+}
+
+.form-label {
+	margin: 0px;
+	padding: 4px 0;
+	color: red;
+}
+
+.right{
+	float:right;margin:0;
+}
+
+.left{
+	float:left;margin:0 20px;
+}
+
+
+.row-login {
+	padding: 5px 10px 30px 0;
+	height:50px;
+}
+
+.login-button{
+float:right;margin:9px 20px 0 0;
+color:white; background:#0099CC; 
+border: 1px solid green; border-radius:30px;
+padding: 10px 25px;
+}
+
+.info{
+	margin:0;
+	paddding: 10px 0;
+	text-align:justify;
+	font-size:14px;
+}
+
+img{
+float:left;
+margin: 0 10px 0 0px;
+}
+
+a{
+text-align:center;
+}
+
+.form-label{
+	text-decoration:italic;
+}
+
+input[type="text"] ,input[type="submit"],input[type="email"],input[type="number"],textarea{
+width:95%;padding: 10px;
+border: 2px solid #CCCCCC;
+border-radius: 5px;
+}
+
+button, input[type="reset"]{
+	color:yellow; background: black; padding:8px 10px; margin:20px 30px;	border-radius: 5px; border: 1px solid green;
+}
+
+#tabs-management {
+	margin: 0px;
+	float: left;
+	width: 820px;
+	
+}
+
+.item-link, .active{
+	margin: 0px;
+	width: 230px;
+	display:block;
+	padding-top:10px;
+	padding-bottom: 10px;
+	font-size: 1.3em;
+	border-radius: 10px 10px 0 0;
+}
+
+.item-link{
+	color: green;
+	
+}
+
+.tab{
+	background: #F2F2F2;
+	border-right: 1px solid green;
+	border-radius: 30px 30px 0 0;
+	margin-left: 12px;
+	border: 2px solid green;
+}
+
+.act{
+	background: green;
+}
+
+.active{
+	color:pink;
+}
+#feature {
+	padding: 10px;
+	width: 28%;
+	margin-top: 10px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	float:left;
+}
+#header #footer .categories {
+	float: left;
+	width: 21%;
+	margin-top: 10px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+}
+.small-item {
+	color: #0066FF;
+	font-size: 101%;
+}
+
+#content-tab{
+	margin:0 0 0 12px;
+	background: url(http://www.verdeblu.gr/contactformbgnd.jpg);
+	padding: 20px;
+	width:747px;
+}
+
+.small-trip{
+	float:left;
+	margin:10px 20px;
+	padding: 5px 15px;
+	border-radius: 30px;
+	border: 2px solid #000000;
+	background: #FFFF00;
+	color: #0000FF;
+}
+
+input[type="checkbox"]{
+  margin: 18px  5px;
+ -ms-transform: scale(2); /* IE */
+  -moz-transform: scale(2); /* FF */
+  -webkit-transform: scale(2); /* Safari and Chrome */
+  -o-transform: scale(2); /* Opera */
+  padding: 10px;
+}
+
+.top-link{
+	margin:0px;
+	padding:30px 20px;
+	color:#FF6600;
+	font-weight: bold;
+}
+
+.one-third{
+	width:23%;
+}
+
+.half{
+	width:40%;
+}
+
+.foot-link{
+	color:#CC3300; text-align:left;
+}
+
+.center{
+	text-align:center;
+}
+
+.buy{
+	color:#0000FF;
+}
+
+.miles{
+	color:green;
+}
+
+#footer{
+	background: #99FFCC;
+}
